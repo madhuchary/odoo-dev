@@ -1,5 +1,5 @@
 #!/bin/bash
-a=5
+a=10
 if [ $a -ne 10 ]
 then
 	echo "please enter only 10"
